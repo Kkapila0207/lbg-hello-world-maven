@@ -10,8 +10,8 @@ public class App
     {
         System.out.println(sayHello());
         System.out.println(sayHelloToSomeone("Alice"));
-        System.out.println(sayHelloToSomeone("Bob"));
-        System.out.println(sayHelloToSomeone("Charlie"));
+        System.out.println(sayHelloToSomeone("Robert"));
+        System.out.println(sayHelloToSomeone("Charles"));
         System.out.println(sayHelloToSomeone("Komal"));
         System.out.println(sayGoodbye());
     }
